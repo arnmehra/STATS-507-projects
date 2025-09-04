@@ -1,4 +1,4 @@
-# STATS-507-projects
+# STATS-507
 
 The purpose of this repository is to document my coursework and project work for STATS 507 at the University of Michigan in Fall 2025.
 
